@@ -9,3 +9,5 @@ build:
     script:
        - npm install
        - npm run serve
+    tags:
+       - todolist
