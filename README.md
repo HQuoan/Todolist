@@ -1,6 +1,6 @@
 # Vue ToDo List
 
-## About huy o day
+## About
 Project of a CRUD ToDo list made in vue.js
 
 ## Project setup
