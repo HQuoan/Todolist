@@ -11,3 +11,5 @@ build:
        - npm run serve
     tags:
        - todolist
+    only:
+       - tags
